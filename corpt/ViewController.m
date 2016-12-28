@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"This is my first modify");
+    NSLog(@"This is my second modify!");
 }
 
 
